@@ -159,7 +159,7 @@
             // windLabel
             // 
             this.windLabel.AutoSize = true;
-            this.windLabel.Location = new System.Drawing.Point(143, 282);
+            this.windLabel.Location = new System.Drawing.Point(137, 283);
             this.windLabel.Name = "windLabel";
             this.windLabel.Size = new System.Drawing.Size(35, 13);
             this.windLabel.TabIndex = 11;
@@ -168,7 +168,7 @@
             // cloudLabel
             // 
             this.cloudLabel.AutoSize = true;
-            this.cloudLabel.Location = new System.Drawing.Point(207, 282);
+            this.cloudLabel.Location = new System.Drawing.Point(222, 282);
             this.cloudLabel.Name = "cloudLabel";
             this.cloudLabel.Size = new System.Drawing.Size(37, 13);
             this.cloudLabel.TabIndex = 12;
@@ -233,9 +233,9 @@
             // txtWind
             // 
             this.txtWind.Enabled = false;
-            this.txtWind.Location = new System.Drawing.Point(131, 298);
+            this.txtWind.Location = new System.Drawing.Point(119, 298);
             this.txtWind.Name = "txtWind";
-            this.txtWind.Size = new System.Drawing.Size(62, 20);
+            this.txtWind.Size = new System.Drawing.Size(74, 20);
             this.txtWind.TabIndex = 20;
             // 
             // txtCloud
@@ -243,7 +243,7 @@
             this.txtCloud.Enabled = false;
             this.txtCloud.Location = new System.Drawing.Point(199, 298);
             this.txtCloud.Name = "txtCloud";
-            this.txtCloud.Size = new System.Drawing.Size(62, 20);
+            this.txtCloud.Size = new System.Drawing.Size(80, 20);
             this.txtCloud.TabIndex = 21;
             // 
             // btnClose
